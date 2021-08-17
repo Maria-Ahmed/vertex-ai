@@ -1,4 +1,5 @@
-# DPS Challenge Mission 1: ***Build and deploy a model with Vertex AI***
+# DPS Challenge Mission 1
+## ***Build and deploy a model with Vertex AI***
 
 
 Description
